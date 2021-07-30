@@ -1,7 +1,12 @@
+body, html {
+    height: 100%;
+    width: 100%;
+}
+
 #BrowserScreen {
     background-color : #AEB8C1;
-    height: 85vh;
-    width: 92.5vw;
+    height: 100%;
+    width: 100%;
     padding: 3%;
 }
 
@@ -22,11 +27,18 @@
 
 #BackgroundLogo {
     float:left;
-
     background-color : #CCE4FD;
     height: 100%;
     width: 50%;
     border-top-left-radius: 97px;
     border-bottom-left-radius: 97px;
+}
 
+#LoginForm {
+    float: right;
+    /* background-color : #df9f29; */
+    height: 100%;
+    width: 50%;
+    border-top-right-radius: 97px;
+    border-bottom-right-radius: 97px;
 }
