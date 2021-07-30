@@ -26,7 +26,6 @@ myApp.controller('loginController',
         //     $scope.disabled = false;
         //     $scope.loginForm = {};
         //   });
-
       };
 
 }]);

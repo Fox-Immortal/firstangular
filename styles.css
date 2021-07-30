@@ -4,10 +4,10 @@ body, html {
 }
 
 #BrowserScreen {
-    background-color : #AEB8C1;
+    background-color : #bfd6e8;
     height: 100%;
     width: 100%;
-    padding: 3%;
+    padding: 1%;
 }
 
 #MainScreen {
@@ -17,12 +17,11 @@ body, html {
     width: 100%;
 }
 
-
-#LoginLogo
-{  
-    position: absolute;
-    padding: 30px;
-    margin: 10% 10% 10% 2%;
+#LoginLogo {  
+    position: relative;
+    width: 100%;
+    padding: 5%;
+    margin-top: 20%;
 }
 
 #BackgroundLogo {
