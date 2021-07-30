@@ -1,7 +1,13 @@
 #BrowserScreen {
     background-color : #AEB8C1;
-    height: 98.5vh;
-    width: 98.5vw;
-    /* height: 100%;
-    width: 100%; */
+    height: 85vh;
+    width: 92.5vw;
+    padding: 3%;
+}
+
+#MainScreen {
+    background-color: white;
+    border-radius: 25px;
+    height: 100%;
+    width: 100%;
 }
