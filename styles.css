@@ -7,7 +7,18 @@
 
 #MainScreen {
     background-color: white;
-    border-radius: 25px;
+    border-radius: 97px;
     height: 100%;
     width: 100%;
+}
+
+#smallTalk {
+    background-color : #63AFFF;
+    width: 496px;
+    height: 396px;
+    border-radius: 97px;
+    align-content: center;
+}
+p {
+    text-align: center;
 }
