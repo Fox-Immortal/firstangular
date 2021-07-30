@@ -21,4 +21,13 @@
 }
 p {
     text-align: center;
+
+    border-left: 50% solid red;
+    
+}
+#logo
+{  padding: 30px;
+    margin: 20px;
+
+
 }
