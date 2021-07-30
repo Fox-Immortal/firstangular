@@ -6,30 +6,27 @@
 }
 
 #MainScreen {
-    position:relative;
     background-color: white;
     border-radius: 97px;
     height: 100%;
     width: 100%;
 }
 
-#smallTalk {
-    background-color : #63AFFF;
-    width: 496px;
-    height: 396px;
-    border-radius: 97px;
-    align-content: center;
-}
-p {
-    text-align: center;
 
-    border-left: 50% solid red;
-    
-}
-
-#logo
+#LoginLogo
 {  
     position: absolute;
     padding: 30px;
     margin: 10% 10% 10% 2%;
+}
+
+#BackgroundLogo {
+    float:left;
+
+    background-color : #CCE4FD;
+    height: 100%;
+    width: 50%;
+    border-top-left-radius: 97px;
+    border-bottom-left-radius: 97px;
+
 }
